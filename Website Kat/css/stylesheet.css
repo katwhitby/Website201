@@ -1,0 +1,41 @@
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 100%;
+    color: rgb(2, 76, 2);
+    text-align: center;
+}
+.bg {
+    background-image: url(../assets/img/trees.png)
+}
+.list {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 100%;
+}
+.scroll {
+    font-family:cursive;
+    text-align: center;
+}
+.background {
+    border-width: 1px;
+    border-style:hidden;
+    background-color: antiquewhite;
+    width: 50%;
+    text-align: center;
+
+}
+.video {
+ display: block;
+ margin: 0 auto;
+ text-align: center;
+}
+.border {
+    border-color: black;
+    border-width: 10px;
+
+}
+.width {
+    width:50%;
+}
